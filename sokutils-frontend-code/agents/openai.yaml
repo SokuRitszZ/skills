@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sokutils Frontend Code"
+  short_description: "Build concise typed frontends with Sokutils"
+  default_prompt: "Use $sokutils-frontend-code to simplify this React frontend with the Sokutils toolset."
