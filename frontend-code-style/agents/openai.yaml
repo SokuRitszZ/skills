@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Code Style"
+  short_description: "Write clear, intentional frontend code"
+  default_prompt: "Use $frontend-code-style to implement or refactor this frontend with the project conventions."
